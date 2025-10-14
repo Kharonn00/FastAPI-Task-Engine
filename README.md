@@ -14,7 +14,7 @@ A RESTful CRUD API built with FastAPI for managing tasks. This project demonstra
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.12.10**
 - **FastAPI** - Modern, fast web framework for building APIs
 - **Pydantic** - Data validation using Python type annotations
 - **Uvicorn** - Lightning-fast ASGI server
