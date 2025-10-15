@@ -1,5 +1,5 @@
 
-readme_content = """# Task Manager API with Search & Sort
+# Task Manager API with Search & Sort
 
 A full-featured RESTful CRUD API built with FastAPI for managing tasks, featuring advanced search, filtering, and multiple sorting algorithms. This project demonstrates fundamental data structures, algorithms, and API design patterns used in production backend systems.
 
