@@ -314,8 +314,6 @@ This project is open source and available for educational purposes.
 
 ## 📬 Contact
 
-**Ariel Espinal** 📧 Email: ariel.espinal09@gmail.com
-
 💼 LinkedIn: [https://linkedin.com/in/aespi09](https://www.linkedin.com/in/aespi09/)
 
 🐙 GitHub: [@Kharonn00](https://github.com/Kharonn00)
