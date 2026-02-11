@@ -218,9 +218,10 @@ def generate_sample_tasks(count: int = Query(25, ge=1, le=100)):
         "generated": generated
     }  
 
+
 # Railway to assign the port dynamically.
 if __name__ == "__main__":
-import uvicorn
-import os
-port = int(os.environ.get("PORT", 8000))
-uvicorn.run(app, host="0.0.0.0", port=port)
+    import uvicorn
+    import os
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
