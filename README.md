@@ -74,7 +74,7 @@ A production-ready RESTful CRUD API built with FastAPI, featuring advanced searc
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Kharonn00/my_api_project.git](https://github.com/Kharonn00/my_api_project.git)
+   git clone [https://github.com/Kharonn00/my_api_project.git](https://github.com/Kharonn00/FastAPI-Task-Engine.git)
    cd my_api_project
 
 ```
